@@ -1,0 +1,8 @@
+*.py linguist-language=c++
+*.txt linguist-language=c++
+*.cpp linguist-language=c++
+*.o linguist-language=c++
+*.sh linguist-language=c++
+*make linguist-language=c++
+*makefile linguist-language=c++
+*Makefile linguist-language=c++
